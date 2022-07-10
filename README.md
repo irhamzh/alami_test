@@ -1,1 +1,1 @@
-# alami_test
+# Solution for Alami Technical Recruitment Test
